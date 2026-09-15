@@ -1,6 +1,6 @@
 > Updated: Sep 2026
 
-![E-commerce Web Analytics dashboard](main/ecommerce-web-analytics-hero.png.png)
+![E-commerce Web Analytics dashboard](ecommerce-web-analytics-hero.png)
 
 # 📊 E-commerce Performance Analysis | BigQuery SQL
 
